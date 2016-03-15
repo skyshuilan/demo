@@ -1,0 +1,121 @@
+*{margin:0;padding:0;list-style: none;}
+body{font-family: "微软雅黑";font-size: 30px;}
+.header{width:100%;height:82px;
+	line-height:82px;
+	background:url(../img/2.png) 96% center no-repeat;
+	text-indent: 20px;
+}
+.header span:nth-child(1){
+	width:244px;
+	display: inline-block;
+}
+.header span:nth-child(2){
+	width:200px;
+	display:inline-block;
+}
+.photo{background:url(../img/28.png) repeat-x;
+width:100%;height:260px;}
+.bg1{
+	width:100%;height:260px;
+	overflow: hidden;
+	background-size:100%;
+	background:url(../img/17.png) 96% center no-repeat;
+}
+.bg2{
+	margin-top:50px;
+	margin-left:50px;
+	float:left;
+	width:152px;height:152px;border-radius: 100%;
+	background:white;
+	overflow: hidden;
+	/*background:url(../img/17.png) 96% center no-repeat;*/
+}
+.bg3{
+	width:140px;
+	height:140px;
+	border-radius: 100%;
+	margin:0 auto;
+	margin-top:6px;
+	background:url(../img/18.png) 20% center no-repeat;
+}
+.photo-con{
+	float: left;
+	width:250px;height:152px;
+	margin-top: 90px;
+	margin-left: 20px;
+}
+.photo-con p:nth-child(1){
+	color:white;
+	text-align:center;
+}
+.photo-con p:nth-child(2){
+	color:white;
+	font-size:26px;
+	text-align:center;
+	background:url(../img/19.png) 4% center no-repeat;
+}
+.two{
+	width:100%;height:150px;
+}
+.two div{
+	float: left;
+	width:213.3px;
+	height:150px;
+	font-size:28px;
+	color:#00adef;
+	text-indent:30px;
+	margin-left:36px;
+}
+.two div:nth-child(1){
+	background:url(../img/22.png) 30% 20% no-repeat ;
+}
+.two div:nth-child(2){
+	background:url(../img/21.png) 30% 20% no-repeat ;
+}
+.two div:nth-child(3){
+	background:url(../img/20.png) 30% 20% no-repeat ;
+}
+.two p{
+	margin-top:60px;
+}
+.three{
+	background:gray;
+	width:100%;height:34px;
+}
+.four li{;height:88px;}
+li p{
+	width:100%x;
+	height:86px;
+	line-height: 86px;
+	margin-left:66px;
+	text-align:left;
+	background:url(../img/right.png) 98% center no-repeat;
+}
+.four li:nth-child(1){
+	border-bottom:1px solid gray;
+	background:url(../img/25.png) 20px center no-repeat;
+}
+.four li:nth-child(2){
+	border-bottom:1px solid gray;
+	background:url(../img/24.png) 20px center no-repeat;
+}
+.four li:nth-child(3){
+	border-bottom:1px solid gray;
+	background:url(../img/26.png) 20px center no-repeat;
+}
+.four li:nth-child(4){
+	background:url(../img/27.png) 20px center no-repeat;
+}
+
+
+.five{width:100%;height:166px;background:gray;overflow: hidden;}
+
+.five p{
+	background:white;
+	width:591px;height:68px;
+	text-align:center;
+	line-height: 68px;
+	margin:0 auto;
+	margin-top:60px;
+	
+}
